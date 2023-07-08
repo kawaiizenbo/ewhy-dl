@@ -4,7 +4,7 @@ pbs kids web video downloader
 ## use instrustions
 require python 3  
 `pip3 install -r requirements.txt`   
-`python3 ewhy-dl.python`  
+`python3 ewhy-dl.py`  
 follow instructions on screen  
 
 ## why did you make this?
